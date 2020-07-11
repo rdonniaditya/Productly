@@ -1,0 +1,397 @@
+/* Bagian Navbar */
+.navbar-nav .btn-primary {
+  background: #ff9900;
+  border: 0px;
+  padding: 12px 24px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.navbar-nav .btn-primary:hover {
+  background: #c0780b;
+  border: 0px;
+}
+
+.navbar-nav .btn-secondary {
+  background: none;
+  border: 1px solid #bcd0e5;
+  padding: 12px 24px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: bold;
+  color: #173a56;
+}
+
+.navbar-nav .btn-secondary:hover {
+  background: none;
+  border: 1px solid #657d96;
+  color: #173a56;
+}
+
+.navbar-nav .nav-link {
+  color: #2f281e;
+}
+
+/* Akhir Bagian Navbar */
+
+/* Bagian Hero */
+
+.herobwa .container {
+  margin-top: 30px;
+}
+
+.herobwa h1 {
+  font-family: Poppins;
+  font-size: 44px;
+  font-weight: bold;
+  color: #2f281e;
+}
+
+.herobwa p {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: regular;
+  color: #544837;
+  margin-top: 26px;
+}
+
+.herobwa .btn-primary {
+  background: #ff9900;
+  border: 0px;
+  padding: 15px 41px 15px 41px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+.herobwa .btn-primary:hover {
+  background: #c0780b;
+  border: 0px;
+}
+
+/* Akhir Bagian Hero */
+
+/* Features */
+
+.features .mb-auto {
+  font-size: 36px;
+  font-weight: bold;
+  font-family: Poppins;
+  text-align: center;
+  margin-top: 110px;
+}
+
+.features {
+  background: url(../../images/Bg.png) no-repeat center;
+  background-size: cover;
+}
+
+.features img {
+  margin-top: 56px;
+  width: 100px;
+}
+
+.features h2 {
+  margin-top: 30px;
+  font-size: 22px;
+  font-family: Poppins;
+  font-weight: 500;
+  color: #2f281e;
+}
+
+.features p {
+  margin-top: 18px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  color: #2f281e;
+}
+
+.features .btn-primary {
+  background: #ff9900;
+  border: 0;
+  padding: 15px 34px;
+  margin-top: 30px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins;
+  margin-bottom: 85px;
+}
+
+/* Akhir Features */
+
+/* Content */
+
+.content .container {
+  margin-top: 125px;
+  margin-bottom: 100px;
+}
+
+.content .text {
+  margin-right: 104px;
+}
+
+.content .text h1 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: 4px;
+  color: #2f281e;
+  margin-bottom: 30px;
+}
+
+.content .text h2 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #2f281e;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+.content .text p {
+  font-size: 16px;
+  color: #544837;
+  font-weight: 400;
+}
+/* Akhir Content */
+
+/* Product */
+
+.product .text {
+  margin-left: 100px;
+}
+
+.product h1 {
+  margin-top: 4px;
+  font-size: 36px;
+  font-weight: bold;
+  font-family: Poppins;
+  margin-bottom: 30px;
+}
+
+.ceklis .row {
+  margin-top: 30px;
+}
+
+.ceklis p {
+  margin-bottom: 30px;
+}
+
+/* Akhir Product */
+
+/* Marketers */
+
+.marketers {
+  margin-top: 105px;
+}
+
+.marketers .text {
+  margin-right: 85px;
+}
+
+.marketers h1 {
+  font-size: 36px;
+  font-weight: bold;
+  font-family: Poppins;
+  color: #2f281e;
+  margin-top: 4px;
+  margin-bottom: 30px;
+}
+
+.marketers h2 {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins;
+  color: #2f281e;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.marketers p {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: Poppins;
+  color: #544837;
+}
+/* Akhir Marketers */
+
+/* Super Hero */
+
+section.super-hero {
+  margin-top: 157px;
+  background: url(../../images/Bg2.png) no-repeat center;
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  padding: 120px;
+}
+
+.super-hero .container {
+  padding-bottom: 230px;
+}
+
+.super-hero h2 {
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 36px;
+  text-align: center;
+}
+
+.super-hero p {
+  font-family: Poppins;
+  color: #567592;
+  margin-top: 20px;
+  margin-bottom: 42px;
+}
+
+.super-hero .btn-primary {
+  background-color: #ff9900;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 8px 16px;
+  border-radius: 4px;
+}
+/* Akhir Superhero */
+
+/* M-Strategies */
+
+.m-strategies {
+  margin-top: 30px;
+}
+
+.m-strategies .title h1 {
+  font-size: 34px;
+  font-family: Poppins;
+  font-weight: bold;
+  color: #2f281e;
+}
+
+.m-strategies .title p {
+  font-size: 16px;
+  font-family: Poppins;
+  font-weight: 400;
+  color: #544837;
+  margin-top: 16px;
+}
+
+.m-strategies .row {
+  margin-top: 50px;
+  margin-bottom: 45px;
+}
+
+.m-strategies .row .col p {
+  margin-top: 30px;
+  font-size: 16px;
+  font-family: Poppins;
+  font-weight: 400;
+  color: #544837;
+}
+
+.m-strategies .row .col h2 {
+  margin-top: 15px;
+  font-size: 24px;
+  font-family: Poppins;
+  font-weight: 500;
+  color: #2f281e;
+  margin-bottom: 36px;
+}
+
+.m-strategies .row .col .active {
+  color: #ff9900;
+}
+
+.m-strategies .pagination {
+  font-size: 30px;
+}
+
+.m-strategies .pagination .page-link {
+  border: none;
+  color: #bcd0e5;
+}
+
+.m-strategies .pagination .active {
+  color: #ff9900;
+}
+
+/* Akhir M-Strategies */
+
+/* Footer */
+
+footer {
+  margin-top: 80px;
+}
+
+footer h4 {
+  font-size: 20px;
+}
+
+footer hr {
+  margin-bottom: 52px;
+}
+
+footer ul {
+  padding: 0;
+}
+
+footer ul li {
+  list-style-type: none;
+}
+
+footer input {
+  margin: 26px 0 24px 0;
+  border: 1px solid #bcd0e5;
+  color: #bcd0e5;
+}
+
+.footer .btn-primary {
+  background: #ff9900;
+  border: 0;
+  padding: 15px 34px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Poppins;
+}
+
+small {
+  text-align: center;
+  margin: 42px 0;
+}
+
+small a {
+  text-decoration: none !important;
+}
+
+/* Akhir Footer */
+
+/* Smartphone */
+@media only screen and (max-width: 768px) {
+  .btn-primary,
+  .btn-secondary {
+    margin-top: 10px;
+    margin-left: 0 !important;
+  }
+}
+
+@media (max-width: 991px) {
+  .btn-warning {
+    margin-top: 8px;
+  }
+  section.contenet .text,
+  section.product .text {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  section.super-hero {
+    padding: 100px 16px;
+    height: 500px;
+  }
+  section.m-strategies .row div {
+    margin-top: 16px;
+  }
+  footer .row div {
+    margin: 12px 0 !important;
+  }
+}
